@@ -1,0 +1,65 @@
+.logo{
+    position: fixed;
+    left:632px;
+    top: 195px;
+}
+.searchBar{
+    width: 487px;
+    height: 34px;
+    margin-left: 15px;
+    outline: none;
+    border: white;
+    font-size: 16px;
+}
+.icon{
+    margin-left:15px;
+    margin-top: 5px;
+}
+.voice{
+    margin-left:10px;
+    margin-top: 10px;
+}
+.search{
+    position: fixed;
+    border-radius: 24px;
+    border: 0.1px rgb(219, 214, 214) ;
+    border-style: solid;
+    top:316px;
+    left:478px;
+    width: 582px;
+    height: 44px;
+}
+.button1 ,.button2{
+    border: none;
+    position: absolute;
+    top: 75px;
+    font-size: 14px;
+    border-radius: 4px;
+    padding: 0 16px;
+    color:#5F6368;
+    text-align:center;
+    height: 36px;  
+    border-color: #F2F2F2;
+}
+.button1{
+    left: 148px;
+}
+.button2{
+    left:288px
+}
+.button1:hover,.button2:hover{
+    border:0.5px solid grey;
+    color: black;
+}
+div a{
+    font-size: 13px;
+    font-family: Arial,sans-serif;
+    color: black;
+    text-decoration: none;
+    position: relative;
+    top: 20px; 
+    left: 88%;
+}
+div a:hover{
+    text-decoration: underline;
+}

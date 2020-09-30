@@ -1,0 +1,67 @@
+.logo{
+    position: fixed;
+    left:632px;
+    top: 195px;
+}
+.searchBar{
+    width: 340px;
+    height: 34px;
+    margin-left: 50px;
+    margin-top: 3px;
+    outline: none;
+    border: white;
+    font-size: 16px;
+}
+.icon{
+    position: absolute;
+    top: 30%;
+    left: 3%;
+}
+.voice{
+    position: absolute;
+    top: 30%;
+    left: 88%;
+}
+.search{
+    position: fixed;
+    border-radius: 24px;
+    border: 0.1px rgb(219, 214, 214) ;
+    border-style: solid;
+    top:316px;
+    left:520px;
+    width: 500px;
+    height: 44px;
+}
+.cam{
+    position: absolute;
+    top: 28%;
+    left: 80%;
+    height: 25px;
+    width: 25px;
+}
+button img{
+    height: 20px;
+    width: 20px;
+}
+ button{
+    position: absolute;
+    top: 28%;
+    left: 93%;
+    background:transparent;
+    border: none;
+}
+button:hover{
+    cursor: pointer ;
+}
+div a{
+    font-size: 13px;
+    font-family: Arial,sans-serif;
+    color: black;
+    text-decoration: none;
+    position: relative;
+    top: 20px; 
+    left: 90%;
+}
+div a:hover{
+    text-decoration: underline;
+}
